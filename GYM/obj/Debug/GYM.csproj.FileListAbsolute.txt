@@ -1,0 +1,16 @@
+C:\Users\Yusuf\source\repos\GYM\GYM\bin\Debug\GYM.exe.config
+C:\Users\Yusuf\source\repos\GYM\GYM\bin\Debug\GYM.exe
+C:\Users\Yusuf\source\repos\GYM\GYM\bin\Debug\GYM.pdb
+C:\Users\Yusuf\source\repos\GYM\GYM\obj\Debug\GYM.csproj.AssemblyReference.cache
+C:\Users\Yusuf\source\repos\GYM\GYM\obj\Debug\GYM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yusuf\source\repos\GYM\GYM\obj\Debug\GYM.Form1.resources
+C:\Users\Yusuf\source\repos\GYM\GYM\obj\Debug\GYM.Properties.Resources.resources
+C:\Users\Yusuf\source\repos\GYM\GYM\obj\Debug\GYM.csproj.GenerateResource.cache
+C:\Users\Yusuf\source\repos\GYM\GYM\obj\Debug\GYM.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\source\repos\GYM\GYM\obj\Debug\GYM.exe
+C:\Users\Yusuf\source\repos\GYM\GYM\obj\Debug\GYM.pdb
+C:\Users\Yusuf\source\repos\GYM\GYM\obj\Debug\GYM.Form2.resources
+C:\Users\Yusuf\source\repos\GYM\GYM\obj\Debug\GYM.Form3.resources
+C:\Users\Yusuf\source\repos\GYM\GYM\obj\Debug\GYM.OdemeForm.resources
+C:\Users\Yusuf\source\repos\GYM\GYM\obj\Debug\GYM.GuncelleSil.resources
+C:\Users\Yusuf\source\repos\GYM\GYM\obj\Debug\GYM.UyeGoruntuleme.resources
